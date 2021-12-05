@@ -1,7 +1,7 @@
 # MEN491_Team_2
 For simulation evaluation
 
-path tracking code with path optimization, using cublic spline planner and LQR controller 
+path tracking code with path optimization, using cublic spline planner, and LQR controller 
 
 # Requirement
 - numpy, pandas
